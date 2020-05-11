@@ -1,0 +1,45 @@
+body {
+    background-image: url("https://conteudo.imguol.com.br/c/noticias/e9/2019/06/18/rottweiller-1560906216741_v2_1920x1280.jpg ");
+    font-family: Arial;  
+    background-size: auto 100vh;
+    height: 100vh;
+    
+  }
+  
+  .menu{ 
+    background-color: Grey;
+    
+  }
+  
+  .menu li {
+    list-style: none;
+    
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    color: White;
+    text-decoration: none;
+    
+  }
+  
+  a:hover {
+    color: Blue;
+    text-decoration: underline;
+    
+  }
+  
+  .site-title, .site-subtitle {
+    color: whitesmoke;
+    text-align: center;
+    
+  }
+  
+  .site.subtitle {
+    font-style: italic;
+    
+  }
